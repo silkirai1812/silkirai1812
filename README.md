@@ -1,7 +1,8 @@
 <!-- GitHub Profile README: silkirai1812 -->
 
 <h1 align="center">Hi 👋, I'm Silki Rai</h1>
-<h3 align="center">B.Tech CSE Student | Web Developer | AI/ML Enthusiast</h3>
+<h3 align="center">Student | Aspiring Software & AI Engineer** | Full-Stack Developer | Machine Learning Enthusiast 
+</h3>
 
 <p align="center">
   <a href="mailto:silkyrai18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -14,10 +15,9 @@
 
 🌟 **About Me**
 
-- 🎓 B.Tech CSE @ BBDITM, Lucknow (2022–2026) | CGPA: 8.4
+- 🎓 B.Tech CSE @ BBDITM, Lucknow (2022–2026)
 - 💻 Passionate about building scalable web apps & exploring AI/ML.
-- 🌱 Currently learning advanced React and deploying ML models.
-- 🏆 Hacktoberfest 2023 Hall of Fame | Cloud Bootcamp by Google & GfG
+- 🌱 Currently learning and exploring Data Science & ML.
 - 📬 Contact: silkyrai18@gmail.com
 
 ---
