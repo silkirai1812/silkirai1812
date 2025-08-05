@@ -122,6 +122,9 @@ ___
   <a href="https://hashnode.com/@silki" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-%230096FF.svg?style=flat-square&logo=hashnode&logoColor=white" />
   </a>
+  <a href="https://hashnode.com/@silki" target="_blank">
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=hashnode&logoColor=2962FF&style=flat-square" width="40" height="40" />
+  </a>
 </p>
 
 ---
