@@ -110,20 +110,20 @@ ___
   <a href="https://leetcode.com/u/silkii18/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="42" height="42" style="margin-right:16px;"/>
   </a>
-  <a href="https://x.com/silki_rai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="42" height="42" style="margin-right:16px;"/>
+<!--   <a href="https://x.com/silki_rai" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="42" height="42" style="margin-right:16px;"/> -->
   </a>
 <!--   <a href="https://hashnode.com/@silki" target="_blank">
     <img src="https://upload.wikimedia.org/commons/1/1f/Hashnode_logo.svg" alt="Hashnode" width="42" height="42" style="margin-right:16px;"/>
   </a> -->
   <a href="https://discord.com/users/silkirai" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?logo=discord&logoColor=5865F2&style=flat-square" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=discord&logoColor=5865F2&style=flat-square" width="55" height="55" />
   </a>
   <a href="https://x.com/silki_rai" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?logo=x&logoColor=1DA1F2&style=flat-square" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=x&logoColor=1DA1F2&style=flat-square" width="55" height="55" />
   </a>
   <a href="https://hashnode.com/@silki" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?logo=hashnode&logoColor=2962FF&style=flat-square" width="40" height="40" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=hashnode&logoColor=2962FF&style=flat-square" width="55" height="55" />
   </a>
 </p>
 
