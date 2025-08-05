@@ -78,6 +78,34 @@
 
 ---
 
+### 💡 Technologies I’m Excited About
+- AI Agents & LLM-powered assistants
+- Edge ML & real-time crowd analytics
+- Design systems and micro frontends
+
+___
+
+### 🤝 Let’s Collaborate
+Got an open-source project, internship or hackathon idea?
+Reach out — I'd love to work with you!
+
+
+<h3 align="left">Where to Find Me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/silki-rai" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:silkyrai18@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://discord.com/users/silkirai" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="40" height="40"/>
+</a>
+  <a href="https://github.com/silkirai1812" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
+
 📈 **GitHub Stats**
 
 <p align="center">
@@ -91,5 +119,3 @@
 > Still exploring ;)
 
 ---
-
-⭐️ *Feel free to explore my repositories and connect with me for collaborations!*  
