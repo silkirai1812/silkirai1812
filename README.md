@@ -102,19 +102,19 @@ ___
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="https://discord.com/users/silkirai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40" style="margin-right: 12px;"/>
+    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=1E1E1E&logoWidth=30" height="48" style="border-radius: 8px; margin-right: 1px;" />
   </a>
   <a href="https://github.com/silkirai1812" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="https://leetcode.com/u/silkii18/" target="_blank">
-    <img src="https://upload.wikimedia.org/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin-right: 12px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="https://x.com/silki_rai" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="https://hashnode.com/@silki" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Hashnode_logo.svg" alt="Hashnode" width="40" height="40" style="margin-right: 12px;"/>
+    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=hashnode&logoColor=2962FF&labelColor=1E1E1E&logoWidth=30" height="48" style="border-radius: 8px; margin-right: 1px;" />
   </a>
 </p>
 
