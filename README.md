@@ -96,27 +96,28 @@ ___
 
 <p align="left">
   <a href="https://www.linkedin.com/in/silki-rai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=linkedin&logoColor=0A66C2&style=flat-square" width="40" height="40" />
   </a>
   <a href="mailto:silkyrai18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=gmail&logoColor=D14836&style=flat-square" width="40" height="40" />
   </a>
   <a href="https://discord.com/users/silkirai" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=discord&logoColor=5865F2&style=flat-square" width="40" height="40" />
   </a>
   <a href="https://github.com/silkirai1812" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=github&logoColor=white&style=flat-square" width="40" height="40" />
   </a>
   <a href="https://leetcode.com/u/silkii18/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=leetcode&logoColor=FFA116&style=flat-square" width="40" height="40" />
   </a>
   <a href="https://x.com/silki_rai" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=x&logoColor=1DA1F2&style=flat-square" width="40" height="40" />
   </a>
   <a href="https://hashnode.com/@silki" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-%230096FF.svg?style=flat-square&logo=hashnode&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=hashnode&logoColor=2962FF&style=flat-square" width="40" height="40" />
   </a>
 </p>
+
 
 
 ---
