@@ -89,6 +89,8 @@ ___
 Got an open-source project, internship or hackathon idea?
 Reach out — I'd love to work with you!
 
+___
+
 
 <h3 align="left">Where to Find Me:</h3>
 <p align="left">
@@ -105,6 +107,8 @@ Reach out — I'd love to work with you!
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
+---
 
 📈 **GitHub Stats**
 
