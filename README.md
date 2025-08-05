@@ -117,10 +117,10 @@ ___
     <img src="https://upload.wikimedia.org/commons/1/1f/Hashnode_logo.svg" alt="Hashnode" width="42" height="42" style="margin-right:16px;"/>
   </a> -->
   <a href="https://discord.com/users/silkirai" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=discord&logoColor=5865F2&style=flat-square" width="40" height="40" />
   </a>
-  <a href="https://hashnode.com/@silki" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-%230096FF.svg?style=flat-square&logo=hashnode&logoColor=white" />
+  <a href="https://x.com/silki_rai" target="_blank">
+    <img src="https://img.shields.io/badge/-1E1E1E?logo=x&logoColor=1DA1F2&style=flat-square" width="40" height="40" />
   </a>
   <a href="https://hashnode.com/@silki" target="_blank">
     <img src="https://img.shields.io/badge/-1E1E1E?logo=hashnode&logoColor=2962FF&style=flat-square" width="40" height="40" />
