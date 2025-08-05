@@ -92,33 +92,32 @@ Reach out — I'd love to work with you!
 ___
 
 
+silkirai1812" target="_blank">
 ### 📡 Where to Find Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/silki-rai" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1E1E1E&logoWidth=30" height="48" style="border-radius: 8px; margin-right: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="mailto:silkyrai18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=1E1E1E&logoWidth=30" height="48" style="border-radius: 8px; margin-right: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="https://discord.com/users/silkirai" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=1E1E1E&logoWidth=30" height="48" style="border-radius: 8px; margin-right: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="https://github.com/silkirai1812" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1E1E&logoWidth=30" height="48" style="border-radius: 8px; margin-right: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="https://leetcode.com/u/silkii18/" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1E1E1E&logoWidth=30" height="48" style="border-radius: 8px; margin-right: 8px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="https://x.com/silki_rai" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=x&logoColor=1DA1F2&labelColor=1E1E1E&logoWidth=30" height="48" style="border-radius: 8px; margin-right: 8px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="40" height="40" style="margin-right: 12px;"/>
   </a>
   <a href="https://hashnode.com/@silki" target="_blank">
-    <img src="https://img.shields.io/badge/-1E1E1E?style=for-the-badge&logo=hashnode&logoColor=2962FF&labelColor=1E1E1E&logoWidth=30" height="48" style="border-radius: 8px; margin-right: 8px;" />
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611244241300/CDyAuTy75.png?w=40&h=40&fit=crop&crop=faces&auto=compress" alt="Hashnode" width="40" height="40" style="margin-right: 12px;"/>
   </a>
 </p>
-
-
 
 
 ---
