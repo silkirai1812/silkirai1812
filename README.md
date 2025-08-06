@@ -138,6 +138,11 @@ ___
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=silkirai1812&label=Profile%20views&color=0e75b6&style=flat)
+
+
+___
+
 ⚡ **Fun Fact**  
 > Still exploring ;)
 
